@@ -1,4 +1,4 @@
-# Reinforcement_Learning
+# Comparing Deep Reinforcement Learning (RL) Algorithms using Atari Tennis
 
 In recent years, there is a lot of active research happening in the field of Reinforcement Learning
 (RL) to address efficiency-related concerns. Efficiency is very important for any RL algorithm as
